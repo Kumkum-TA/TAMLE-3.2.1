@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/e89b60bd577a442fb990c41b68e834d3/artifacts
+end_time: 1731749507782
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e89b60bd577a442fb990c41b68e834d3
+run_uuid: e89b60bd577a442fb990c41b68e834d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731749478769
+status: 3
+tags: []
+user_id: kumkum.gupta
